@@ -1,12 +1,12 @@
 # Eye-Exercise
 ## Description
-This project contains code that will make the eyes graphics follow your mouse arrow as you move it across the screen.
+The eyes will follow your mouse cursor.
 
-## How to Run
-Simply drag the eyes exercise folder into your machine and load the html file in your browser.
+## Executing Program
+Create a folder on your device, download files to folder, drag index.html to browser.
 
 ## Roadmap
-I would like to eventually have the eyes cross when i drag my mouse down the middle of the screen
+Making eyes blink at different intervals.
 
 ## License
 MIT License
